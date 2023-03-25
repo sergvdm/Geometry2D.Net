@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Svd.Geometry2D</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Geometry2D.Abstractions.Net\Geometry2D.Abstractions.Net.csproj" />
+  </ItemGroup>
+
+</Project>
